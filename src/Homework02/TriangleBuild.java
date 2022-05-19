@@ -2,7 +2,7 @@ package Homework02;
 
 import java.util.Scanner;
 
-public class Trianglebuild {
+public class TriangleBuild {
     public static void main(String[] args) {
 
 
