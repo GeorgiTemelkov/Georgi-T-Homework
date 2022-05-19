@@ -26,7 +26,7 @@ public class TriangleBuild {
 
                 if(angleA==90 || angleB ==90 || angleC==90) {
                     System.out.println("The triangle is right-angled");
-                }else if()
+                }
 
             } else {
                 System.out.println("The triangle is not possible");
@@ -41,4 +41,4 @@ public class TriangleBuild {
 
 
     }
-}
+
