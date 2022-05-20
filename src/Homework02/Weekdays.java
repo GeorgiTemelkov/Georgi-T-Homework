@@ -54,7 +54,7 @@ public class Weekdays {
         if (days <1 && days >7){
             System.out.println("This is not a valid day of the week");
         }
-        System.out.format("The %d-%s day of the week is %s", days, daySuffix, dayOfWeek);
+        System.out.format("The %d%s day of the week is %s", days, daySuffix, dayOfWeek);
     }
 }
 
