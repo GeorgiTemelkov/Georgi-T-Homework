@@ -17,7 +17,7 @@ public class VacationDays {
 
         case 1:
             destination=1;
-            System.out.println("Please enter your vacation budged for your Beach vacation:");
+            System.out.println("Please enter your daily vacation budged for your Beach vacation:");
             budget= scanner.nextDouble();
 
             if(budget<=0){
@@ -33,7 +33,7 @@ public class VacationDays {
 
             case 2:
                 destination=2;
-                System.out.println("Please enter your vacation budged for you Mountain vacation:");
+                System.out.println("Please enter your daily vacation budged for you Mountain vacation:");
                 budget= scanner.nextDouble();
 
                 if(budget<=0){
