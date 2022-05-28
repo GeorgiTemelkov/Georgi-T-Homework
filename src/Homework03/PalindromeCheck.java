@@ -16,7 +16,7 @@ public class PalindromeCheck {
         for (int i = front.length-1; i>=0; i--){
             for (int j =0; j<= front.length;j++) {
 
-               reverse[j] = front.[i];
+      //         reverse[j] = front.[i];
 
             }
         }
