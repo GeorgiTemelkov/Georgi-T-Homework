@@ -1,5 +1,5 @@
 package Homework03;
-
+//НЕДОВЪРШЕНА
 import java.util.Scanner;
 public class PalindromeCheck {
     public static void main(String[] args) {
@@ -11,12 +11,16 @@ public class PalindromeCheck {
 
         char[] front = word.toCharArray();
 
-        char[] reverse = new char[0];
+        char[] reverse = new char[front.length];
 
         for (int i = front.length-1; i>=0; i--){
-            reverse.
+            for (int j =0; j<= front.length;j++) {
 
+               reverse[j] = front.[i];
+
+            }
         }
+        System.out.println(reverse);
 
     }
 }
