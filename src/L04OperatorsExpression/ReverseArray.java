@@ -1,4 +1,4 @@
-package Homework02;
+package L04OperatorsExpression;
 
 public class ReverseArray {
     public static void main(String[] args) {

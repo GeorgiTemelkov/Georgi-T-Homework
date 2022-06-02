@@ -1,4 +1,4 @@
-package Homework04;
+package L06Methods;
 
 public class AverageThreeNumbers {
     public static void main(String[] args) {

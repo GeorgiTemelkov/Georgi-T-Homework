@@ -1,4 +1,4 @@
-package Homework03;
+package L05DataStructures;
 
 public class BiggestArrayElement {
     public static void main(String[] args) {

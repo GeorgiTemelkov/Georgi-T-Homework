@@ -1,4 +1,4 @@
-package Homework03;
+package L05DataStructures;
 //НЕДОВЪРШЕНА
 import java.util.Scanner;
 public class PalindromeCheck {

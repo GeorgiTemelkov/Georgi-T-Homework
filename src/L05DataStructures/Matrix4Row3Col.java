@@ -1,4 +1,4 @@
-package Homework03;
+package L05DataStructures;
 
 public class Matrix4Row3Col {
     public static void main(String[] args) {

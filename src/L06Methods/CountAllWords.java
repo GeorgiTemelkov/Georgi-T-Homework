@@ -1,4 +1,4 @@
-package Homework04;
+package L06Methods;
 import java.util.Scanner;
 public class CountAllWords {
 
